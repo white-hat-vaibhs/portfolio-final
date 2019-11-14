@@ -1,3 +1,3 @@
 # Dev Landing Page
 
-<a href="www.vaibhavsoni.tech">Link to live website </a>
+<a href="https://www.vaibhavsoni.tech" target="_blank">Link to live website </a>
