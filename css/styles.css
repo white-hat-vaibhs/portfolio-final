@@ -4,6 +4,8 @@ html {
 	font-family: 'Roboto', sans-serif;
 }
 
+
+
 @media (min-width: 576px) {
 	html {
 		font-size: 14px;
@@ -41,6 +43,9 @@ main {
 	justify-content: center;
 	padding: 0 30px;
 	text-align: center;
+}
+main {
+padding-top: 200px;
 }
 
 main > .intro {
