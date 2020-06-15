@@ -1,7 +1,8 @@
 /* Typography */
 
 html {
-	font-family: 'Roboto', sans-serif;
+
+	font-family: 'Reem Kufi', sans-serif;
 }
 
 
@@ -44,17 +45,18 @@ main {
 	padding: 0 30px;
 	text-align: center;
 }
+
 main {
-padding-top: 50px;
+	padding-top: 50px;
 }
 
-main > .intro {
+main>.intro {
 	font-family: 'Reem Kufi', sans-serif;
 	font-size: 3.75em;
 	font-weight: 600;
 }
 
-main > .tagline {
+main>.tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
@@ -70,11 +72,22 @@ main > .tagline {
 
 .devto svg {
 	margin-bottom: -0.20rem;
-	margin-left: 0.675rem;;
+	margin-left: 0.675rem;
+	;
 	width: 2.65rem;
 	height: 2.65rem;
 }
-.blog-title{
-	color:rgb(42, 165, 155);
+
+.blog-title {
+	color: rgb(42, 165, 155);
 	text-decoration: none;
+}
+
+.freebies {
+	color: rgb(42, 165, 155);
+	text-decoration: none;
+	font-size: 0.8em;
+	font-weight: 600;
+
+
 }
