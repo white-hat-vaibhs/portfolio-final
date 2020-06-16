@@ -175,3 +175,12 @@ html {
 	width: 33.33%;
 	padding: 0 30px 30px 30px;
 }
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+	.column-mob {
+		width: 100%;
+		display: block;
+		margin-bottom: 20px;
+	}
+}
