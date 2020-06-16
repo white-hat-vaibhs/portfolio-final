@@ -143,3 +143,35 @@ html {
 		margin-bottom: 20px;
 	}
 }
+
+.button {
+	border: none;
+	background: #1eb600;
+	color: #ffffff !important;
+	font-weight: 100;
+	padding: 10px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-radius: 6px;
+	display: inline-block;
+	transition: all 0.3s ease 0s;
+}
+
+.button:hover {
+	color: #404040 !important;
+	font-weight: 700 !important;
+	letter-spacing: 3px;
+	background: none;
+	-webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+	-moz-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+	transition: all 0.3s ease 0s;
+}
+
+
+
+.column-mob {
+
+	float: left;
+	width: 33.33%;
+	padding: 0 30px 30px 30px;
+}
